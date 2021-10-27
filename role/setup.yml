@@ -1,3 +1,0 @@
-- hosts: sshhardening
-  roles:
-          - role: "ssh_hardening"
